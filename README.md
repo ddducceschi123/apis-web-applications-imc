@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma aplicação web para calcular o Índice de Massa Corporal (IMC). A aplicação recebe o weight e a height do usuário, calcula o IMC e retorna a categoria correspondente (Magreza, Normal, Sobreweight ou Obesidade).
+Este projeto é uma aplicação web para calcular o Índice de Massa Corporal (IMC). A aplicação recebe o peso e a altura do usuário, calcula o IMC e retorna a categoria correspondente (Magreza, Normal, Sobrepeso ou Obesidade).
 
 ## Estrutura do Projeto
 
